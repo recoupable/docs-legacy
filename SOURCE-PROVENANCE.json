@@ -1,6 +1,6 @@
 {
   "repository": "recoupable/marketing",
-  "commit": "38a24f67a64d2f97c5367cdf8f3a187701ce8091",
+  "commit": "964c5b225b052ade8831cfda00b02bd7f22ba3d3",
   "sourceDirectory": "content/docs/source",
   "files": [
     {
@@ -182,6 +182,11 @@
       "path": "api-reference/apple/songs.mdx",
       "sourcePath": "content/docs/source/api-reference/apple/songs.mdx",
       "sha256": "f1e2ebe6862fc1a1504e5678cd3e55847d205a53236124f90bec9a5f47807588"
+    },
+    {
+      "path": "api-reference/applications/validate-registration.mdx",
+      "sourcePath": "content/docs/source/api-reference/applications/validate-registration.mdx",
+      "sha256": "f64dd11a06c013da21e9317db5689d691ecdf6875e3ae0afc5796f01ac4dbc0a"
     },
     {
       "path": "api-reference/artist/socials-scrape.mdx",
@@ -482,6 +487,11 @@
       "path": "api-reference/openapi/ai.json",
       "sourcePath": "content/docs/source/api-reference/openapi/ai.json",
       "sha256": "678f649fff58a1c49c81002ea2cbe66636ad5da1044ea66261e6ab4084600687"
+    },
+    {
+      "path": "api-reference/openapi/applications.json",
+      "sourcePath": "content/docs/source/api-reference/openapi/applications.json",
+      "sha256": "07cf7c630ca81816d73e9198b863dc0a9c8e987f4e0794375951ead06e498ad6"
     },
     {
       "path": "api-reference/openapi/content.json",
@@ -1156,12 +1166,12 @@
     {
       "path": "llms-full.txt",
       "sourcePath": "content/docs/source/llms-full.txt",
-      "sha256": "345621536d1715e5a25483d39c15e9066a616939f3fae686d91648066495f333"
+      "sha256": "78aa0764dc8ba4ec94cba155aeb01dd8d79ad68f59d6f039c190736415210a56"
     },
     {
       "path": "llms.txt",
       "sourcePath": "content/docs/source/llms.txt",
-      "sha256": "76f0f95cdd8ae4fa74bee6363803bd1655ab6b299c2a3778007674dd89589a5c"
+      "sha256": "c4139b21d9ce43461cb59d45128128b13a788ff8071a600125efa9a37b1bf56e"
     },
     {
       "path": "mcp-cimd.mdx",
@@ -1176,7 +1186,7 @@
     {
       "path": "mcp.mdx",
       "sourcePath": "content/docs/source/mcp.mdx",
-      "sha256": "d95f5444269268a066f076e390065d136e24cdee50c51572c95ec957b2fd5658"
+      "sha256": "7aef417c3b36722c0d897cebc7ce430675344f0e555c9180b5a1eef5b508bdec"
     },
     {
       "path": "public-website-api.mdx",
@@ -1219,7 +1229,7 @@
       "sha256": "df08b22bdc866daaf6adfbdfaafac47859f1281449841990d0e2af499a1e2d7d"
     }
   ],
-  "navigationSha256": "e95868a987892fdb4fba56c0859280185a395956e32ab0c2a07d4ce05de4ae04",
+  "navigationSha256": "f6aa36d99ea011ba47a7ea23874c76c1037c349cbe2bb70f5a505f9cebfc4621",
   "hostSpecific": [
     "docs.json theme, colors, navbar, footer, logo and host settings"
   ],
